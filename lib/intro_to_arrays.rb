@@ -21,6 +21,7 @@ array[-1]
 end
 
 def first_element_with_array_methods(array)
-first_element_with_array_methods = first_element
-array.index()
+array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+first_element = ["Thailand"]
+return array
 end
