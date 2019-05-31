@@ -21,5 +21,6 @@ array[-1]
 end
 
 def first_element_with_array_methods(array)
-  array.index(first_country)
+first_country = first_element_with_array_method
+array.index(first_country)
 end
