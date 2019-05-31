@@ -33,6 +33,6 @@ end
 
 def lenght_of_array(array)
   array = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
-  array = array.lenght
+  array = array.lengt
 return array
 end
