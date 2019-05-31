@@ -31,8 +31,8 @@ def last_element_with_array_methods(array)
   return last_element
 end
 
-def lenght_of_array(array)
+def length_of_array(array)
   array = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
-  array = array.lengt
+  array = array.length
 return array
 end
