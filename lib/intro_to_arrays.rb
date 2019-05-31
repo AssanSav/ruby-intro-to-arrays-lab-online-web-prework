@@ -22,6 +22,6 @@ end
 
 def first_element_with_array_methods(array)
 array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-first_element = ["Thailand"]
+first_element = "Thailand"
 return first_element
 end
