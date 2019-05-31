@@ -22,5 +22,5 @@ end
 
 def first_element_with_array_methods(array)
 first_country = first_element_with_array_methods
-array.index(first_country)
+array
 end
