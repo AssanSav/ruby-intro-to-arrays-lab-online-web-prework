@@ -26,4 +26,7 @@ first_element = "Thailand"
 return first_element
 end
 
-def last_element_with_array_methods 
+def last_element_with_array_methods
+  array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  
+end
