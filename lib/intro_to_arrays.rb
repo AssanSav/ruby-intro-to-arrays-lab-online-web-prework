@@ -25,3 +25,4 @@ array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
 first_element = "Thailand"
 return first_element
 end
+def 
